@@ -1,0 +1,2 @@
+# Inventory-Management-System
+ A warehouse inventory management system named IMS. IMS is responsible for inventory tracking within a physical, single site warehouses. IMS tracks the named physical location of a product within the warehouse and the inventory level of each product. IMS supports many pickers and restockers working with individual terminals and clients. Updates inventory levels in real time to prevent pickers trying to pick a product that is out of stock.
